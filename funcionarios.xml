@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<funcionarios><titulo>Cadastro de Administrador</titulo><Administrador cpf="11882546985"><cpf>11882546985</cpf><nome>maria</nome><sobrenome>11882546985</sobrenome><email>dev.schlemper@gmail.com</email><senha>12345</senha><cargo>Administrador</cargo></Administrador><Administrador cpf="11682546985"><cpf>11682546985</cpf><nome>Gleison</nome><sobrenome>Schlemper</sobrenome><email>gleisonschlemper532@gmail.com</email><senha>12345</senha><cargo>Administrador</cargo></Administrador></funcionarios>
